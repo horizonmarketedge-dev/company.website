@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://horizonmarketedge-chi.vercel.app/</loc>
+    <loc>https://horizonmarketedge-five.vercel.app/</loc>
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://horizonmarketedge-chi.vercel.app/about</loc>
+    <loc>https://horizonmarketedge-five.vercel.app/about</loc>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://horizonmarketedge-chi.vercel.app/market-outlook-podcast</loc>
+    <loc>https://horizonmarketedge-five.vercel.app/market-outlook-podcast</loc>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://horizonmarketedge-chi.vercel.app/market-outlook-blog</loc>
+    <loc>https://horizonmarketedge-five.vercel.app/market-outlook-blog</loc>
     <priority>0.40</priority>
   </url>
   <url>
-    <loc>https://horizonmarketedge-chi.vercel.app/personal-finance-guide</loc>
+    <loc>https://horizonmarketedge-five.vercel.app/personal-finance-guide</loc>
     <priority>0.20</priority>
   </url>
 </urlset>
